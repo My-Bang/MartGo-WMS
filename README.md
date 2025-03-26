@@ -61,6 +61,8 @@ java -jar target/MartGO.jar
  ┃ ┣ 📂 view
  ┗ 📜 README.md
 ```
+## 기록물 노션 링크
+https://www.notion.so/1-1b479777a02f8048b247d3ce2fae43e1?pvs=4
 
 ## 💡 느낀점 및 개선할 점
 ✅ 느낀점
