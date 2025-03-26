@@ -62,7 +62,9 @@ java -jar target/MartGO.jar
  ┗ 📜 README.md
 ```
 ## 기록물 노션 링크
-<img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&link=www.notion.so/1-1b479777a02f8048b247d3ce2fae43e1?pvs=4"> </a>
+<a href="https://www.notion.so/1-1b479777a02f8048b247d3ce2fae43e1?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+</a>
  
 ## 💡 느낀점 및 개선할 점
 ✅ 느낀점
